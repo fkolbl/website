@@ -1,0 +1,9 @@
+- title: Google
+  url: https://scholar.google.com/citations?user=zKDkBvkAAAAJ&hl=en&oi=ao
+  icon: fab fa-google
+- title: GitHub
+  url: https://github.com/fkolbl/
+  icon: fab fa-github
+- title: LinkedIn
+  url: blablabla
+  icon: fab fa-linkedin

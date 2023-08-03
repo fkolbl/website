@@ -1,0 +1,33 @@
+# Site settings
+
+title: Florian Kolbl
+description: >- # this means to ignore newlines until "baseurl:"
+  Website of Florian Kolbl
+  Associate professor at Bordeaux INP, ENSEIRB-Matmeca
+  Researcher at Laboratory IMS (CNRS UMR 5218, U. Bordeaux, Bordeaux INP)
+baseurl: "" 
+url: "http://www.florian-kolbl.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Florian Kolbl
+email: admin@florian-kolbl.com
+avatar: /assets/images/profil.jpg
+subscribe: false
+
+# Build settings
+theme: jekyll-theme-hamilton
+plugins:
+  - jekyll-feed
+  - jekyll-pdf-embed
+
+skin: midnight
+# Exclude from processing.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
