@@ -36,3 +36,7 @@ if __name__='__main__':
     except:
         print('Oups, something went wrong')
 ```
+
+here is a video:
+
+{% youtube d_qvLDhkg00 %}
