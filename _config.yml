@@ -31,3 +31,6 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+    - .gitignore
+    - docker-compose.yml
+    - docker-entrypoint.sh
