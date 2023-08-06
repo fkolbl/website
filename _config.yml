@@ -1,13 +1,13 @@
 # Site settings
 
-title: Florian Kolbl
+title: Florian Kölbl
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of Florian Kolbl
+  Website of Florian Kölbl
   Associate professor at Bordeaux INP, ENSEIRB-Matmeca
   Researcher at Laboratory IMS (CNRS UMR 5218, U. Bordeaux, Bordeaux INP)
 baseurl: "" 
 url: "http://www.florian-kolbl.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: Florian Kolbl
+author: Florian Kölbl
 email: admin@florian-kolbl.com
 avatar: /assets/images/profil.jpg
 subscribe: false
@@ -20,7 +20,7 @@ plugins:
 
 skin: midnight
 # Exclude from processing.
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -31,3 +31,6 @@ skin: midnight
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+    - .gitignore
+    - docker-compose.yml
+    - docker-entrypoint.sh
