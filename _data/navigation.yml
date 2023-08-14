@@ -1,8 +1,22 @@
 - title: Research
-  url: /research/
+  sublinks:
+    - title: My Focus
+      url: /research/
+    - title: PhD students
+      url: /research/phdstudents/
 - title: Teaching
   url: /teaching/
 - title: Open Science
-  url: /openscience/
+  sublinks:
+    - title: Open Science
+      url: /openscience/
+    - title: NRV
+      url: /openscience/nrv/
+    - title: BIMMS
+      url: /openscience/bimms/
 - title: CV
-  url: /curriculumvitae/
+  sublinks:
+    - title: short version
+      url: /curriculumvitae/
+    - title: full CV
+      url: /curriculumvitae/pdf_versions/

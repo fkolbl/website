@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NeuRon Virtualizer (NRV)
+title: Open Science - NeuRon Virtualizer (NRV)
 permalink: /openscience/nrv/
 ---
 
