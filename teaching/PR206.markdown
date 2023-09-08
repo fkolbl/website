@@ -1,0 +1,21 @@
+---
+layout: page
+title: Teaching - Electronics S7 PR206
+permalink: /teaching/PR206/
+
+consignes: "/assets/pdf/pr206-informations_generales-2023-09-01-version_eleves.pdf"
+---
+
+Les consignes d'organisation des projets d'électronique (module PR206) peuvent être consultées à [ce lien](/assets/pdf/pr206-informations_generales-2023-09-01-version_eleves.pdf).
+
+Les sujets de projet que j'encadre sont listés ci-dessous : 
+1. [Sonde de température RTD](/assets/pdf/pr206-sujet_sonde_rtd_v3.pdf),
+2. [capteur de température à diodes 1N4148](),
+3. [Transmission optoélectronique](/assets/pdf/pr206-sujet_transmission_optoelectronique_v3.pdf),
+4. [Cardiofréquencemètre électrique](/assets/pdf/pr206-sujet_cardiofrequencemetre_electrique_v3.pdf),
+5. [Cardiofréquencemètre optique](/assets/pdf/pr206-sujet_cardiofrequencemetre_optique_v3.pdf),
+6. [Magnétomètre portatif](/assets/pdf/pr206-sujet_magnetometre_portatif_v3.pdf),
+7. [Excitation d'un ventilateur en MLI](/assets/pdf/pr206-sujet_mli_ventilateur_v3.pdf).
+
+
+
