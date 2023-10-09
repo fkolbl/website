@@ -17,6 +17,6 @@ Les sujets de projet que j'encadre sont listés ci-dessous :
 6. [Magnétomètre portatif](/assets/pdf/pr206-sujet_magnetometre_portatif_v3.pdf),
 7. [Excitation d'un ventilateur en MLI](/assets/pdf/pr206-sujet_mli_ventilateur_v3.pdf).
 
-Pour rappel, vous pouvez consulter les ressources nécessaires pour la CAO à l'ENSEIRB-Matmeca sur le site de [D. Bedenes](http://bedenes.vvv.enseirb-matmeca.fr/)
+Pour rappel, vous pouvez consulter les ressources nécessaires pour la CAO à l'ENSEIRB-Matmeca sur le site [de CAO de l'enseirb](https://cao.enseirb-matmeca.fr/)
 
 
