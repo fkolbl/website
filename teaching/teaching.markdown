@@ -13,5 +13,6 @@ Here is a list of teaching and corresponding pages for shared resources:
     - [S7 Electronics projects - PR206]({% link teaching/PR206.markdown %})
     - S7 Analog Electronics labs - EA208
 3. Electronics third year - ESYBIO:
+   - [S9 Introduction to biosignals]({% link teaching/TP_BioZ.markdown %})
 
 
