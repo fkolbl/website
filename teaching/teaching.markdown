@@ -15,4 +15,6 @@ Here is a list of teaching and corresponding pages for shared resources:
 3. Electronics third year - ESYBIO:
    - [S9 Introduction to biosignals]({% link teaching/TP_BioZ.markdown %})
 
+Appart from that, I also enjoy sharing knowledge in general bioelectronics. For instance, the page for the Bordeaux Summer School on Cancer can be accessed at this link: [Lecture and lab on Bio-Impedance]({% link teaching/Summer_School.markdown %})
+
 
