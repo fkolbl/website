@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "New paper in Biological Cybernetics"
+date:   2025-07-20 07:00:00
+categories: news
+---
+Paper accepted in Biological Cybernetics on the control of Deep Brain Stimulation by suppressing subcortical loops delays.
+
+Parkinson’s Disease (PD) is a neurodegenerative disorder associated with Basal Ganglia (BG) dysfunction, where abnormal neuronal beta-oscillations (12-30 Hz) have been shown to correlate with motor symptoms. Non-pharmacological therapies are based on Deep Brain Stimulation (DBS), delivering electric current waveform with constant frequency and amplitude to BG regions, commonly single targeting either the Subthalamic Nucleus (STN) or the Globus Palidus (GP). More recently, studies have also employed dual-target stimulation, which may synergistically increase therapeutic benefit. Additionally, novel designs of adaptive DBS (aDBS) with closed-loop feedback aim to further enhance efficiency when compared to open-loop procedures, while enabling it to deal with patient variability and disease progression. In this way, here we propose a dual-target aDBS controller, considering a computational model for STN-GPe circuit. Its goal is to suppress the mentioned oscillations at any stage of illness development and synaptic and connectivity parameters ranges, hence in principle adjustable to distinct patient conditions. The control method generally addresses the STN-GPe circuit as a nonlinear-delayed dynamical system, employing a robust technique of delay compensation. The controller architecture relies on recording and stimulating both STN and GPe, also using a straightforward predictor algorithm to select the external inputs for the STN-GPe circuit. The stimulation inputs consist of initial simple brief pulses that suppress or shift the onset of beta-oscillations. Then, weak amplitude signals are enough to sustain the achieved stabilization. The protocol has been fully simulated considering an in silico model. Within such theoretical framework, it was shown to be extremely efficient if the processing time is not too long. The dual-target aDBS put forward here is based on implementable technologies, thus potentially amenable to novel strategies for biomedical close-loop approaches. But concrete challenges for doing so are also discussed.
+
+[Click Here to read the article](https://link.springer.com/article/10.1007/s00422-025-01021-5){:target="_blank"}
+
