@@ -17,7 +17,7 @@ L'objectif de l'évaluation est donc d'évaluer des réflexes :
 - d'application directe de formules à connaître (dérivées, intégrales, développement limités, trigonométrie...).
 - de calcul.
 
-Vous pouvez consulter le programme complet [en cliquant ici](/assets/pdf/Certificat_math_PP.pdf)
+Vous pouvez consulter le programme complet [en cliquant ici](/assets/pdf/Certificat_Math_PP.pdf)
 
 > **Comment suis-je évalué :**  Le certificat de mathématiques est validé par des questions sur les 5 grands chapitres du programme, qui sont tirées aléatoirement pour chaque élève. Les sessions sont prévues dans l'emploi du temps, l'examen se déroule sur la plateforme *Moodle*, sans document ni calculatrice. Seul un mémo sur la syntaxe est autorisé au format papier.
 
